@@ -31,7 +31,7 @@ We release [OpenKE](https://github.com/thunlp/openKE), an open source toolkit fo
 
 1. **LFM: A Latent Factor Model for Highly Multi-relational Data.**
 *Rodolphe Jenatton, Nicolas L. Roux, Antoine Bordes, Guillaume R. Obozinski.* NIPS 2012. [paper](http://papers.nips.cc/paper/4744-a-latent-factor-model-for-highly-multi-relational-data.pdf)
-	> LFM is based on a bilinear structure, which captures variouts orders of interaction of the data, and also shares sparse latent factors across different relations.
+	> LFM is based on a bilinear structure, which captures various orders of interaction of the data, and also shares sparse latent factors across different relations.
 
 1. **NTN: Reasoning With Neural Tensor Networks for Knowledge Base Completion.**
 *Richard Socher, Danqi Chen, Christopher D. Manning, Andrew Ng.* NIPS 2013. [paper](http://papers.nips.cc/paper/5028-reasoning-with-neural-tensor-networks-for-knowledge-base-completion.pdf)
@@ -95,7 +95,7 @@ We release [OpenKE](https://github.com/thunlp/openKE), an open source toolkit fo
 
 1. **KR-EAR: Knowledge Representation Learning with Entities, Attributes and Relations.**
 *Yankai Lin, Zhiyuan Liu, Maosong Sun.* IJCAI 2016. [paper](http://nlp.csai.tsinghua.edu.cn/~lyk/publications/ijcai2016_krear.pdf) [code](https://github.com/thunlp/KR-EAR) 
-	> Existing KG-relations can be divided into attributes and relations, which exhibit rather distinct characteristics. KG-EAR is a KR model with entities, attributes and relations, which encodes the correlations between entity descriptions.
+	> Existing KG-relations can be divided into attributes and relations, which exhibit rather distinct characteristics. KG-EAR is a KR model with entities, attributes and relations, which encodes the correlations between entity attributes.
 
 1. **TranSparse: Knowledge Graph Completion with Adaptive Sparse Transfer Matrix.**
 *Guoliang Ji, Kang Liu, Shizhu He, Jun Zhao.* AAAI 2016. [paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11982/11693) [code](https://github.com/thunlp/Fast-TransX)
@@ -107,7 +107,7 @@ We release [OpenKE](https://github.com/thunlp/openKE), an open source toolkit fo
 
 1. **TEKE: Text-Enhanced Representation Learning for Knowledge Graph.**
 *Zhigang Wang, Juan-Zi Li.* IJCAI 2016. [paper](https://www.ijcai.org/Proceedings/16/Papers/187.pdf)
-	> TEKE incorporates the rich textual content information to expand the semantic structure of the knowledge graph. Thus, each relation is enabled to own different representations for different head and tail entities to better handle 1-N/N-1/N-N relations. TEKE handle the problems of low performance on 1-N/N-1/N-N1 relations and KG sparseness.
+	> TEKE incorporates the rich textual content information to expand the semantic structure of the knowledge graph. Thus, each relation is enabled to own different representations for different head and tail entities to better handle 1-N/N-1/N-N relations. TEKE also handles the problem of KG sparseness.
 
 1. **STransE: A Novel Embedding Model of Entities and Relationships in Knowledge Bases.**
 *Dat Quoc Nguyen, Kairit Sirts, Lizhen Qu and Mark Johnson.* NAACL-HLT 2016. [paper](https://arxiv.org/pdf/1606.08140) [code](https://github.com/datquocnguyen/STransE)
@@ -127,7 +127,7 @@ We release [OpenKE](https://github.com/thunlp/openKE), an open source toolkit fo
 
 1. **SSP: Semantic Space Projection for Knowledge Graph Embedding with Text Descriptions.**
 *Han Xiao, Minlie Huang, Lian Meng, Xiaoyan Zhu.* AAAI 2017. [paper](http://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/14-XiaoH-14306.pdf)
-	> SSP models the strong correlatons between triples and the textual correlations by performing the embedding process in a sementic improvements against the state-of-the-art baselines.
+	> SSP models the strong correlatons between triples and the textual correlations by performing the embedding process in a sementic subspace.
 
 
 1. **ProjE: Embedding Projection for Knowledge Graph Completion.**
